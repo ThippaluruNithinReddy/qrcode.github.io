@@ -1,0 +1,26 @@
+body{
+    background-color: azure ;
+}
+.main{
+    margin-left: 35%;
+    margin-top: 5%;
+    background-color: aliceblue;
+    border: 5px groove rgb(133, 129, 129);
+    border-radius: 20px;
+    height: 500px;
+    width: 30%;
+    padding-top: 30px;
+    background-color: white;
+
+    
+}
+img{
+    border-radius: 30px;
+}
+.one,.two{
+    text-align: center;
+    font-size: larger;
+    color: black;
+    font-variant: small-caps;
+
+}
